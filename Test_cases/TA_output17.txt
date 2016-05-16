@@ -1,0 +1,3 @@
+model391.obj_tri1.txt model392.obj_tri1.txt model392.obj_tri2.txt
+model392.obj_tri1.txt model391.obj_tri1.txt model392.obj_tri2.txt
+model392.obj_tri2.txt model391.obj_tri1.txt model392.obj_tri1.txt

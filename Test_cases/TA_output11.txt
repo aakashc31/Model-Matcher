@@ -1,0 +1,2 @@
+model16.obj_tri2.txt model20.obj_tri2.txt
+model20.obj_tri2.txt model16.obj_tri2.txt

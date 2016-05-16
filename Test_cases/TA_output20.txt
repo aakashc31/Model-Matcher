@@ -1,0 +1,6 @@
+model30.obj_tri1.txt model30.obj_tri2.txt model37.obj_tri1.txt model37.obj_tri2.txt
+model30.obj_tri2.txt model30.obj_tri1.txt model37.obj_tri1.txt model37.obj_tri2.txt
+model37.obj_tri1.txt model30.obj_tri1.txt model30.obj_tri2.txt model37.obj_tri2.txt
+model37.obj_tri2.txt model30.obj_tri1.txt model30.obj_tri2.txt model37.obj_tri1.txt
+tri1.txt tri2.txt
+tri2.txt tri1.txt

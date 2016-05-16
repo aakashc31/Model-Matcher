@@ -1,0 +1,2 @@
+model6.obj_tri1.txt model7.obj_tri1.txt
+model7.obj_tri1.txt model6.obj_tri1.txt

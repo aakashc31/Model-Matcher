@@ -1,0 +1,2 @@
+model32.obj_tri1.txt model33.obj_tri2.txt
+model33.obj_tri2.txt model32.obj_tri1.txt

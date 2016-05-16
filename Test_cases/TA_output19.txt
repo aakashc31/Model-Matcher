@@ -1,0 +1,3 @@
+model10.obj_tri1.txt model9.obj_tri1.txt model9.obj_tri2.txt
+model9.obj_tri1.txt model10.obj_tri1.txt model9.obj_tri2.txt
+model9.obj_tri2.txt model10.obj_tri1.txt model9.obj_tri1.txt

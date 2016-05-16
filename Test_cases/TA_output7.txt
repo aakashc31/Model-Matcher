@@ -1,0 +1,2 @@
+model253.obj_tri1.txt model254.obj_tri1.txt
+model254.obj_tri1.txt model253.obj_tri1.txt

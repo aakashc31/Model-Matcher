@@ -1,0 +1,2 @@
+model175.obj_tri1.txt model176.obj_tri2.txt
+model176.obj_tri2.txt model175.obj_tri1.txt
